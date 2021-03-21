@@ -1,4 +1,4 @@
-# kafka-implementation-.net-core-c-
+# Kafka Implementation .Net Core C#
 Practical Example for Use Apache Kafka In .NET Application, the demo for  Kafka installation in .Net core and you can build Real-time Streaming Applications Using .NET Core c# and Kafka. 
 
 ### _Steps_ 
